@@ -1,1 +1,1 @@
-asdfprint("Wassup Buddy!! v93545")
+print("Wassup Buddy!! v93545")
